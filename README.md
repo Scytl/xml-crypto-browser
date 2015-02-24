@@ -2,9 +2,9 @@
 An xml digital signature library for javascript. Forked and adapted to be used in browser from https://github.com/yaronn/xml-crypto
 
 ## Install
-is a little rough by now, just copying files from "lib" folder.:
+is a little rough by now, just copying files from "lib" folder
 
-## pre requisita
+## pre requisites
 * xpath: https://github.com/yaronn/xpath.js (not properly versioned, commit: 032e4c7191802bb3c81273354f3dc3db120cb47b
 
 
