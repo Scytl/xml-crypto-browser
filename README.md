@@ -1,5 +1,5 @@
 ## xml-crypto-browser
-An xml digital signature library for javascript. Forked and adapted from https://github.com/yaronn/xml-crypto
+An xml digital signature library for javascript. Forked and adapted to be used from https://github.com/yaronn/xml-crypto
 
 ## Install
 is a little rough by now, just copying files from "lib" folder.:
